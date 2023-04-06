@@ -1,0 +1,273 @@
+home_06:
+    mobile_number:          0891898012
+    pin:                    123456
+
+home_13:
+    mobile_number:          0891898012
+    pin:                    123456
+
+home_22:
+    mobile_number:          0891898012
+    pin:                    123456
+    mobileCountry:          66
+    grantType:              pin
+
+home_26:
+    mobile_number:          0891898012
+    pin:                    123456
+
+home_35:
+    mobile:          0891898012
+    pin:                    123456
+
+home_43:
+    mobile_number:          0891898012
+    pin:                    123456
+    card_sequence:          1
+
+home_52:
+    mobile_number:          0891898012
+    pin:                    123456
+    sequence_number:            1
+
+home_55:
+    mobile_number:          0891898012
+    pin:                    123456
+
+home_56:
+    mobile_number:          0891898012
+    pin:                    123456
+
+home_57:
+    mobile_number:          0891898012
+    pin:                    123456
+
+home_58:
+    mobile:          0891898012
+    pin:                    123456
+
+deep_link_01:
+    rewards_type:           rewards?
+    mobile_number:          0891898012
+    pin:                    123456
+
+deep_link_02:
+    rewards_type:           personalizedReward?
+    mobile_number:          0891898012
+    pin:                    123456
+
+explore_60:
+    mobile_number:          0891898012
+    pin:                    123456
+
+explore_77:
+    mobile_number:          0891898012
+    pin:                    123456
+
+explore_82:
+    mobile_number:          0891898012
+    pin:                    123456
+
+explore_83:
+    mobile_number:          0891898012
+    pin:                    123456
+
+explore_84:
+    mobile_number:          0891898012
+    pin:                    123456
+    
+waffle_menu_149:
+    thai_mobile_number:         0891898012
+    pin:                        123456
+
+waffle_menu_163:
+    mobile_number:          0891898012
+    pin:                    123456
+
+myprofile_170:
+    mobile_number:          0891898012
+    pin:                    123456
+
+the1_today_327:
+    mobile_number:          0891898012
+    pin:                    123456
+
+the1_today_335:
+    mobile_number:          0891898012
+    pin:                    123456
+
+the1_family_348:
+    mobile_number:          0891898012
+    pin:                    123456
+
+the1_exclusive_360:
+    mobile_number:          0891898012
+    pin:                    123456
+
+the1_exclusive_362:
+    mobile_number:          0891898012
+    pin:                    123456
+
+the1_exclusive_363:
+    mobile_number:          0891898012
+    pin:                    123456
+
+the1_exclusive_364:
+    mobile_number:          0891898012
+    pin:                    123456
+
+the1_exclusive_366:
+    mobile_number:          0891898012
+    pin:                    123456
+
+the1_exclusive_367:
+    mobile_number:          0891898012
+    pin:                    123456
+    personalshopper_mobile_number:  +66 87-823-0667
+    personalshopper_mobile_number_ios:  +66 87 - 823 - 0667
+
+account_375:
+    mobile_number:          0891898012
+    pin:                    123456
+    username:               Testtwo Po
+
+account_376:
+    mobile_number:          0891898012
+    pin:                    123456
+
+explore_409:
+    mobile_number:          0891898012
+    pin:                    123456
+
+explore_410:
+    mobile_number:          0891898012
+    pin:                    123456
+
+guest_mode_437:
+    mission_name:       BnB home Challenge
+    mission_name_ios:       Family Check-In
+
+explore_438:
+    mobile_number:          0891898012
+    pin:                    123456
+
+the1_exclusive_457:
+    mobile_number:          0891898012
+    pin:                    123456
+
+the1_wellness_572:
+    mobile_number:          0891898012
+    pin:                    123456
+
+earn_pay_110:
+    mobile_number:          0891898012
+    pin:                    123456
+
+earn_pay_107:
+    mobile_number:          0891898012
+    pin:                    123456
+
+my_profile_209:
+    mobile_number:              0891898012
+    pin:                        123456
+    interests_name:             Travel
+    interests_name2:            Movie
+
+explore_473:
+    mobile_number:          0891898012
+    pin:                    123456
+    reward_name:            All Rewards
+    range:                  1,001
+    range_2:                501
+    brand_name_1:           B2S
+    brand_name_2:           Tops Online
+    sort_option:            Expiring Soon
+
+explore_474:
+    mobile_number:          0891898012
+    pin:                    123456
+    reward_name:            Eat Around
+
+explore_475:
+    mobile_number:          0891898012
+    pin:                    123456
+    group_name:             Burn Points
+
+explore_476:
+    mobile_number:          0891898012
+    pin:                    123456
+    group_name:             100 Points or Less
+    group_name_title:       100 Points or Less
+
+explore_477:
+    mobile_number:          0891898012
+    pin:                    123456
+    reward_name:            All Rewards
+    range:                  1,001
+    brand_name_1:           B2S
+    brand_name_2:           BnB home
+
+explore_478:
+    mobile_number:          0891898012
+    pin:                    123456
+    reward_name:            All Rewards
+    range:                  1,001
+    brand_name_1:           B2S
+    brand_name_2:           Tops Online
+
+home_601:
+    mobile_number:          0810452898
+    pin:                    192421
+
+guest_mode_434:
+    mobile_number:          0891898012
+    pin:                    123456
+
+home_628:
+    mobile_number:          0891898012
+    pin:                    123456
+
+home_610:
+    mobile_number:              0891898012
+    pin:                        123456
+    mobileCountry:              66
+    grantType:                  pin
+
+home_585:
+    search_value:                Reward
+
+home_603:
+    mobile_number:          0891898012
+    pin:                    123456
+    search_value:           Reward
+
+home_604:
+    mobile_number:          0891898012
+    pin:                    123456
+    search_value:           Reward
+
+home_606:
+    mobile_number:              0891898012
+    pin:                        123456
+
+home_607:
+    mobile_number:              0891898012
+    pin:                        123456
+
+home_t1x_user:
+    mobile_number:          0891898012  
+    pin:                    123456
+
+home_631:
+    mobile_number:          0891898012
+    pin:                    123456
+
+home_614:
+    mobile_number:              0891898012
+    pin:                        123456
+    sequence_number:            1
+
+home_621:
+    mobile_number:              0891898012
+    pin:                        123456
+    sequence_number:            1

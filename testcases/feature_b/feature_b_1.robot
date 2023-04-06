@@ -1,6 +1,6 @@
 *** Settings ***
 Library           AppiumLibrary
-Library    ../resources/common/common_keyword.robot    WITH NAME    common
+Resource    ../../resources/common/common_keyword.robot
 
 *** Keywords ***
 Example Keyword
@@ -8,5 +8,5 @@ Example Keyword
 
 *** Test Cases ***
 test_demo
-     common.Open App
-     common.Close All Apps
+     Open App
+     Close All Apps

@@ -1,0 +1,34 @@
+automationName                    : XCUITest
+remoteUrl                         : http://127.0.0.1:4723/wd/hub
+platformName                      : ios
+app_name                          : The 1 UAT
+platformVersion                   : '15.2'
+deviceName                        : 'iPhone 12 Pro Max'
+bundleId                          : th.co.the1.the1app.uat
+systemPort                        : 8201
+global_timeout                    : 20s
+default_scroll_view               : //XCUIElementTypeAlert
+app_path                          : false
+sms                               : true
+clear_cookies                     : false
+autoGrantPermissions              : true
+newCommandTimeout                 : 36000
+noReset                           : true
+fullReset                         : true
+is_pcloudy                        : false
+unicodeKeyboard                   : true
+resetKeyboard                     : true
+time_scroll                       : 1.5s
+short_timeout                     : 5s
+long_timeout                      : 30s
+package_messagefackbook           : com.facebook
+duration_scroll                   : 100
+mobile_url                        : https://uat-mobile-apis.the1.co.th
+x-api-key                         : b9IbJ4OiVT1PAi7S8hnhG9NAyrXQUGoh9WvZYEGZ
+x-device-id                       : AUTOMATETEST
+x-device-model                    : iPhone
+x-device-platform                 : IOS 10.2
+Ios-Client-version                : 4.16.0
+Accept-Language                   : en
+deeplink_url                      : the1-uat://
+Content-Type                      : application/json
