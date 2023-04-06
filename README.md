@@ -18,3 +18,11 @@ robot -d LOG -v platform:ios -v doppio_farm:False -v app:"/Users/s.chaichanamong
 
 1. `-d LOG` = where to put result to in this case it is LOG folder
 2. `-v xxx` = set env variable can be useful to set environment
+
+## How to use test data variable
+```
+home_06:
+    mobile_number:          0891898012
+    pin:                    123456
+```
+`${home_06['mobile_number']}`
